@@ -1,0 +1,14 @@
+{
+    "name": "acme",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "turbo dev",
+        "build": "turbo build",
+        "typecheck": "turbo typecheck"
+    },
+    "devDependencies": {
+        "turbo": "^2.6.1"
+    },
+    "packageManager": "pnpm@10.20.0"
+}

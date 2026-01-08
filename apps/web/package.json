@@ -1,0 +1,24 @@
+{
+    "name": "acme-web",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "typecheck": "tsc --noEmit"
+    },
+    "dependencies": {
+        "@acme-internal/api": "workspace:*",
+        "@orpc/client": "catalog:orpc",
+        "@orpc/server": "catalog:orpc",
+        "next": "16.0.8",
+        "react": "catalog:react",
+        "react-dom": "catalog:react"
+    },
+    "devDependencies": {
+        "@types/node": "25.0.3",
+        "@types/react": "catalog:react",
+        "@types/react-dom": "catalog:react",
+        "typescript": "catalog:"
+    }
+}
