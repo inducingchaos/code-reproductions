@@ -1,22 +1,15 @@
-# Bug Repros & Demos
+# Code Reproductions
 
-See branches for examples.
+Minimal code reproductions. Stored as branches - each branch contains a standalone project.
 
+## Usage
+
+Browse branches in the GitHub UI, select one, then view its README for setup instructions.
+
+Or via command line:
+
+```bash
+git clone -b <branch-name> https://github.com/inducingchaos/code-reproductions.git
+cd code-reproductions
+cat README.md
 ```
-//
-//
-```
-
-## Contact
-
-For questions, concerns, or comments, connect with me:
-
-Riley Barabash — **SPLIT**\
-[ Email ](mailto:riley@rileybarabash.com) | [ Instagram ](https://www.instagram.com/rileybarabash) | [ GitHub ](https://github.com/rileybarabash)
-
-```
-//
-//
-```
-
-Made with <3 in YEG `<Edmonton, Alberta>`
