@@ -8,6 +8,7 @@
         "typecheck": "turbo typecheck"
     },
     "devDependencies": {
+        "@types/node": "25.0.3",
         "turbo": "^2.6.1"
     },
     "packageManager": "pnpm@10.20.0"

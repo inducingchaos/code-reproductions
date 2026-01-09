@@ -37,6 +37,9 @@ importers:
 
   .:
     devDependencies:
+      '@types/node':
+        specifier: 25.0.3
+        version: 25.0.3
       turbo:
         specifier: ^2.6.1
         version: 2.7.3
